@@ -20,7 +20,7 @@ This project implements a Merkle tree data structure in TypeScript, providing cr
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/merkle-tree-implementation.git
+git clone git@github.com:tlukanie/Merkle_Tree_Implementation.git
 cd Merkle_Tree_Implementation
 npm install
 ```
